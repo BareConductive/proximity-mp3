@@ -2,7 +2,7 @@
 
 # Bare Conductive Proximity MP3 Demo Code
 
-Simple proximity-triggered MP3 code for the [Bare Conductive Touch Board](http://www.bareconductive.com/shop/touch-board/). Touch electrode 0, **TRACK000.MP3** plays from the micro SD card. Touch electrode 1, **TRACK001.MP3** plays from the micro SD card, and so on.  This is a small evolution of the Touch MP3 code that ships with the [Touch Board](http://www.bareconductive.com/shop/touch-board/).
+Simple proximity-triggered MP3 code for the [Bare Conductive Touch Board](http://www.bareconductive.com/shop/touch-board/). Touch electrode 0, **TRACK000.MP3** plays from the micro SD card. Touch electrode 1, **TRACK001.MP3** plays from the micro SD card, and so on.  This is a small evolution of the [Touch MP3](https://github.com/BareConductive/touch-mp3) code that ships with the [Touch Board](http://www.bareconductive.com/shop/touch-board/).
 
 ## Requirements
 * [Arduino](http://arduino.cc/en/Main/Software) 1.0.5 or 1.5.6+ (1.5.6+ is strongly preferred).
